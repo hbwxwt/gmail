@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="266b4eaf-88fc-47d8-858f-8a3e2d6e66d3" name="Default Changelist" comment="">
+    <list default="true" id="cda992f6-c604-4fa0-850a-a3162bb823e1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-admin/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/gmall-admin/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-oms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-oms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-oms/src/main/java/com/atguigu/gmall/oms/GmallOmsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-oms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-oms/src/test/java/com/atguigu/gmall/oms/GmallOmsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/src/main/java/com/atguigu/gmall/pms/GmallPmsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-pms/src/test/java/com/atguigu/gmall/pms/GmallPmsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/src/main/java/com/atguigu/gmall/sms/GmallSmsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-sms/src/test/java/com/atguigu/gmall/sms/GmallSmsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-ums/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-ums/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-ums/src/main/java/com/atguigu/gmall/ums/GmallUmsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-ums/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-ums/src/test/java/com/atguigu/gmall/ums/GmallUmsApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-wms/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-wms/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-wms/src/main/java/com/atguigu/gmall/wms/GmallWmsApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-wms/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gmall-wms/src/test/java/com/atguigu/gmall/wms/GmallWmsApplicationTests.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/gmall-admin/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/gmall-core/target/" />
-    <ignored path="$PROJECT_DIR$/gmall-pms/target/" />
-    <ignored path="$PROJECT_DIR$/gmall-ums/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,88 +43,39 @@
     <session id="928227183">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="gitignore" value="11" />
-          <entry key="xml" value="5" />
+          <entry key="gitignore" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="11" />
-          <entry key="XML" value="5" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gmall-pms/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-ums/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="387">
-              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-oms/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-sms/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gmall-wms/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state relative-caret-position="42">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -113,11 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gmall-pms/pom.xml" />
-        <option value="$PROJECT_DIR$/gmall-ums/pom.xml" />
-        <option value="$PROJECT_DIR$/gmall-oms/pom.xml" />
-        <option value="$PROJECT_DIR$/gmall-sms/pom.xml" />
-        <option value="$PROJECT_DIR$/gmall-wms/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -128,17 +98,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="814" />
-    <option name="y" value="28" />
-    <option name="width" value="954" />
-    <option name="height" value="922" />
+    <option name="x" value="1003" />
+    <option name="y" value="62" />
+    <option name="width" value="888" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -146,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,22 +122,16 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578042233082" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunDashboard">
-    <option name="configurationTypes">
-      <set>
-        <option value="SpringBootApplicationConfigurationType" />
-      </set>
-    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -186,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.GmallAdminMainApplication">
+  <component name="RunManager">
     <configuration name="GmallAdminMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="gmall-admin" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.GmallAdminMainApplication" />
@@ -194,69 +151,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GmallOmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="gmall-oms" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.oms.GmallOmsApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GmallPmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="gmall-pms" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.pms.GmallPmsApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GmallSmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="gmall-sms" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.sms.GmallSmsApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GmallUmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="gmall-ums" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.ums.GmallUmsApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GmallWmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="gmall-wms" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.wms.GmallWmsApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Spring Boot.GmallAdminMainApplication" />
-      <item itemvalue="Spring Boot.GmallPmsApplication" />
-      <item itemvalue="Spring Boot.GmallUmsApplication" />
-      <item itemvalue="Spring Boot.GmallOmsApplication" />
-      <item itemvalue="Spring Boot.GmallSmsApplication" />
-      <item itemvalue="Spring Boot.GmallWmsApplication" />
-    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="266b4eaf-88fc-47d8-858f-8a3e2d6e66d3" name="Default Changelist" comment="" />
-      <created>1578031130217</created>
+      <changelist id="cda992f6-c604-4fa0-850a-a3162bb823e1" name="Default Changelist" comment="" />
+      <created>1578102709277</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578031130217</updated>
-      <workItem from="1578031131630" duration="3944000" />
+      <updated>1578102709277</updated>
+      <workItem from="1578102713717" duration="125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3944000" />
+    <option name="totallyTimeSpent" value="125000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="814" y="28" width="954" height="922" extended-state="1" />
+    <frame x="1003" y="62" width="888" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -265,11 +179,10 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24944071" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3152174" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run Dashboard" weight="0.32909784" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32909784" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.34952766" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -283,7 +196,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" weight="0.32997763" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
@@ -300,45 +213,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gmall-ums/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-oms/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-sms/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-wms/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmall-pms/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
